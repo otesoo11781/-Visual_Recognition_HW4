@@ -72,7 +72,7 @@ Hence, the data directory is structured as:
 ## Training
 **Important: This step is optional. If you don't want to retrain the whole model, please download [my trained weights](https://drive.google.com/file/d/1-kKSOut5vV5O8Ou9VNU4rirI5tZ7t8Ob/view?usp=sharing).**
 
-- **model_best.pt**: my weights trained on given training dataset (provided by TAs) for 400 epochs with early termination (stop at 359th epochs). 
+- **model_best.pt**: my weights trained on given training dataset (provided by TAs) for 400 epochs with early termination (stop at 366th epochs). 
 
 Then, move **model_best.pt** to the **./EDSR-PyTorch/experiment/RCAN_BIX3_G10R20P24_RS/model/** directory.
 
